@@ -1,0 +1,307 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.background{
+    position: absolute;
+    width: 103%;
+    height: 1000px;
+    left: 0px;
+    top: 81px;
+}
+
+header{
+    position: absolute;
+    width: 1729px;
+    height: 81px;
+    left: -12px;
+    top: 0px;
+}
+
+button{
+    border: none;
+    background: none;
+}
+
+.app{
+    position: absolute;
+    width: 110px;
+    height: 20px;
+    left: 1340px;
+    top: 30px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration: none;
+
+    color: #FFFFFF;
+}
+
+.contato{
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    left: 1452px;
+    top: 30px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration: none;
+
+    color: #FFFFFF;
+}
+
+.suporte{
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    left: 1542px;
+    top: 30px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration: none;
+
+    color: #FFFFFF;
+}
+
+.entrar{
+    position: absolute;
+    width: 70px;
+    height: 20px;
+    left: 1632px;
+    top: 30px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration: none;
+
+    color: #FFFFFF;
+}
+
+.criarconta{
+    position: absolute;
+    width: 110px;
+    height: 20px;
+    left: 1712px;
+    top: 30px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration: none;
+
+    color: #1D84DD;
+}
+
+.conta{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1832px;
+    top: 10px;
+}
+
+.icon{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.barra{
+    position: absolute;
+    width: 1915px;
+    height: 81px;
+    top: 0px;
+
+    background: #121514;
+}
+
+.logo{
+    position: absolute;
+    width: 200px;
+    height: 80px;
+    left: 21px;
+    top: -8px;
+}
+
+.pagina{
+    position: absolute;
+    width: 290px;
+    height: 90px;
+    left: 809px;
+    top: 902px;
+
+    background: #1B262C;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+
+.email img{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 606px;
+    top: 564px;
+
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.email .titulo{
+    position: absolute;
+    width: 118px;
+    height: 30px;
+    left: 583px;
+    top: 654px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.email p{
+    position: absolute;
+    width: 343px;
+    height: 40px;
+    left: 470px;
+    top: 704px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+
+    display: flex;
+    align-items: center;
+
+    color: #1D84DD;
+}
+
+.chat img{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 919px;
+    top: 564px;
+
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.chat .titulo{
+    position: absolute;
+    width: 83px;
+    height: 30px;
+    left: 916px;
+    top: 656px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.chat p{
+    position: absolute;
+    width: 90px;
+    height: 30px;
+    left: 913px;
+    top: 711px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+
+    color: #1D84DD;
+}
+
+.telefone img{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 1205px;
+    top: 564px;
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.telefone .titulo{
+    position: absolute;
+    width: 154px;
+    height: 30px;
+    left: 1162px;
+    top: 646px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.telefone p{
+    position: absolute;
+    width: 211px;
+    height: 40px;
+    left: 1133px;
+    top: 701px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+
+    display: flex;
+    align-items: center;
+
+    color: #1D84DD;
+}
