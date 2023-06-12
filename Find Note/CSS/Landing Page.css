@@ -6,9 +6,9 @@
 
 
 .background{
-    position: absolute;
-    width: 1000px;
-    height: 961px;
+    position: fixed;
+    width: 55%;
+    height: 100%;
     left: 865px;
 }
 
@@ -21,7 +21,7 @@ button{
     position: absolute;
     width: 110px;
     height: 20px;
-    left: 1305px;
+    left: 1310px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -39,7 +39,7 @@ button{
     position: absolute;
     width: 80px;
     height: 20px;
-    left: 1415px;
+    left: 1423px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -57,7 +57,7 @@ button{
     position: absolute;
     width: 80px;
     height: 20px;
-    left: 1500px;
+    left: 1512px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -75,7 +75,7 @@ button{
     position: absolute;
     width: 70px;
     height: 20px;
-    left: 1585px;
+    left: 1600px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -93,7 +93,7 @@ button{
     position: absolute;
     width: 110px;
     height: 20px;
-    left: 1657px;
+    left: 1675px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -111,7 +111,7 @@ button{
     position: absolute;
     width: 60px;
     height: 60px;
-    left: 1780px;
+    left: 1795px;
     top: 10px;
 }
 
