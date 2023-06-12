@@ -4,20 +4,11 @@
     box-sizing: border-box;
 }
 
+
 .background{
     position: absolute;
-    width: 103%;
-    height: 1000px;
-    left: 0px;
-    top: 81px;
-}
-
-header{
-    position: absolute;
-    width: 1729px;
-    height: 81px;
-    left: -12px;
-    top: 0px;
+    width: 100%;
+    height: 100%;
 }
 
 button{
@@ -29,7 +20,7 @@ button{
     position: absolute;
     width: 110px;
     height: 20px;
-    left: 1340px;
+    left: 1305px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -47,7 +38,7 @@ button{
     position: absolute;
     width: 80px;
     height: 20px;
-    left: 1452px;
+    left: 1415px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -65,7 +56,7 @@ button{
     position: absolute;
     width: 80px;
     height: 20px;
-    left: 1542px;
+    left: 1500px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -83,7 +74,7 @@ button{
     position: absolute;
     width: 70px;
     height: 20px;
-    left: 1632px;
+    left: 1585px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -101,7 +92,7 @@ button{
     position: absolute;
     width: 110px;
     height: 20px;
-    left: 1712px;
+    left: 1657px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -119,7 +110,7 @@ button{
     position: absolute;
     width: 60px;
     height: 60px;
-    left: 1832px;
+    left: 1780px;
     top: 10px;
 }
 
@@ -131,9 +122,8 @@ button{
 
 .barra{
     position: absolute;
-    width: 1915px;
-    height: 81px;
-    top: 0px;
+    width: 100%;
+    height: 80px;
 
     background: #121514;
 }
@@ -151,7 +141,7 @@ button{
     width: 290px;
     height: 90px;
     left: 809px;
-    top: 902px;
+    top: 820px;
 
     background: #1B262C;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -171,7 +161,7 @@ button{
     width: 70px;
     height: 70px;
     left: 606px;
-    top: 564px;
+    top: 420px;
 
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
@@ -181,7 +171,7 @@ button{
     width: 118px;
     height: 30px;
     left: 583px;
-    top: 654px;
+    top: 500px;
 
     font-family: 'Anek Latin';
     font-style: normal;
@@ -199,7 +189,7 @@ button{
     width: 343px;
     height: 40px;
     left: 470px;
-    top: 704px;
+    top: 540px;
 
     font-family: 'Anek Latin';
     font-style: normal;
@@ -218,7 +208,7 @@ button{
     width: 70px;
     height: 70px;
     left: 919px;
-    top: 564px;
+    top: 420px;
 
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
@@ -228,7 +218,7 @@ button{
     width: 83px;
     height: 30px;
     left: 916px;
-    top: 656px;
+    top: 500px;
 
     font-family: 'Anek Latin';
     font-style: normal;
@@ -246,7 +236,7 @@ button{
     width: 90px;
     height: 30px;
     left: 913px;
-    top: 711px;
+    top: 548px;
 
     font-family: 'Anek Latin';
     font-style: normal;
@@ -264,7 +254,7 @@ button{
     width: 70px;
     height: 70px;
     left: 1205px;
-    top: 564px;
+    top: 420px;
 
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
@@ -274,7 +264,7 @@ button{
     width: 154px;
     height: 30px;
     left: 1162px;
-    top: 646px;
+    top: 500px;
 
     font-family: 'Anek Latin';
     font-style: normal;
@@ -291,8 +281,8 @@ button{
     position: absolute;
     width: 211px;
     height: 40px;
-    left: 1133px;
-    top: 701px;
+    left: 1136px;
+    top: 544px;
 
     font-family: 'Anek Latin';
     font-style: normal;

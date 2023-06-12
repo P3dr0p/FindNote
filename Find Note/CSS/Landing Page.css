@@ -7,8 +7,9 @@
 
 .background{
     position: absolute;
-    width: 100%;
-    height: 100%;
+    width: 1000px;
+    height: 961px;
+    left: 865px;
 }
 
 button{
@@ -134,105 +135,4 @@ button{
     height: 80px;
     left: 21px;
     top: -8px;
-}
-
-
-.montagem{
-    position: absolute;
-    width: 244px;
-    height: 30px;
-    left: 388px;
-    top: 250px;
-
-    font-family: 'Anek Latin';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 50px;
-    line-height: 55px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-
-    color: #FFFFFF;
-
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
-
-.montagemvideo{
-    position: absolute;
-    width: 820px;
-    height: 400px;
-    left: 110px;
-    top: 300px;
-    background-color: black;
-}
-
-.instalacao{
-    position: absolute;
-    width: 270px;
-    height: 30px;
-    left: 1243px;
-    top: 250px;
-
-    font-family: 'Anek Latin';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 50px;
-    line-height: 55px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-
-    color: #FFFFFF;
-
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
-
-.instalacaovideo{
-    position: absolute;
-    width: 820px;
-    height: 400px;
-    left: 958px;
-    top: 300px;
-    background-color: black;
-}
-
-.produto{
-    position: absolute;
-    width: 290px;
-    height: 90px;
-    left: 350px;
-    top: 760px;
-
-    background: #1B262C;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 20px;
-    font-family: 'Anek Latin';
-    
-    font-style: normal;
-    font-weight: 700;
-    font-size: 32px;
-    line-height: 35px;
-
-    color: #FFFFFF;
-}
-
-.pagina{
-    position: absolute;
-    width: 290px;
-    height: 90px;
-    left: 1215px;
-    top: 760px;
-
-    background: #1B262C;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 20px;
-    font-family: 'Anek Latin';
-
-    font-style: normal;
-    font-weight: 700;
-    font-size: 32px;
-    line-height: 35px;
-
-    color: #FFFFFF;
 }

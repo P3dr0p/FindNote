@@ -4,20 +4,11 @@
     box-sizing: border-box;
 }
 
+
 .background{
     position: absolute;
-    width: 103%;
-    height: 1036px;
-    left: 0px;
-    top: 81px;
-}
-
-header{
-    position: absolute;
-    width: 1729px;
-    height: 81px;
-    left: -12px;
-    top: 0px;
+    width: 100%;
+    height: 100%;
 }
 
 button{
@@ -29,7 +20,7 @@ button{
     position: absolute;
     width: 110px;
     height: 20px;
-    left: 1340px;
+    left: 1305px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -47,7 +38,7 @@ button{
     position: absolute;
     width: 80px;
     height: 20px;
-    left: 1452px;
+    left: 1415px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -65,7 +56,7 @@ button{
     position: absolute;
     width: 80px;
     height: 20px;
-    left: 1542px;
+    left: 1500px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -83,7 +74,7 @@ button{
     position: absolute;
     width: 70px;
     height: 20px;
-    left: 1632px;
+    left: 1585px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -101,7 +92,7 @@ button{
     position: absolute;
     width: 110px;
     height: 20px;
-    left: 1712px;
+    left: 1657px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -119,7 +110,7 @@ button{
     position: absolute;
     width: 60px;
     height: 60px;
-    left: 1832px;
+    left: 1780px;
     top: 10px;
 }
 
@@ -131,9 +122,8 @@ button{
 
 .barra{
     position: absolute;
-    width: 1915px;
-    height: 81px;
-    top: 0px;
+    width: 100%;
+    height: 80px;
 
     background: #121514;
 }
