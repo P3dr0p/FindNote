@@ -4,12 +4,15 @@
     box-sizing: border-box;
 }
 
+.color{
+    background-color: #EFEFEF;
+}
 
-.background{
+.background-2{
     position: fixed;
-    width: 55%;
+    width: 1000px;
     height: 100%;
-    left: 865px;
+    left: 1000px;
 }
 
 button{
@@ -135,4 +138,82 @@ button{
     height: 80px;
     left: 21px;
     top: -8px;
+}
+
+.wifi{
+    position: absolute;
+    left: 326px;
+    top: 321px;
+}
+
+.frase{
+    position: absolute;
+    width: 547px;
+    height: 170px;
+    left: 151px;
+    top: 474px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 46px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.produto{
+    position: absolute;
+    width: 290px;
+    height: 90px;
+    left: 120px;
+    top: 688px;
+    
+    background: #1B262C;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 35px;
+    
+    color: #FFFFFF;
+    
+}
+
+.manual{
+    position: absolute;
+    width: 290px;
+    height: 90px;
+    left: 440px;
+    top: 688px;
+    
+    background: #1B262C;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 35px;
+    
+    color: #FFFFFF;
+    
+}
+
+.dispositivo{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 1280px;
+    top: 230px;
+    
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
