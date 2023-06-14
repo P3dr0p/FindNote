@@ -16,6 +16,22 @@ button{
     background: none;
 }
 
+.inicial{
+    position: absolute;
+    left: 1180px;
+    top: 30px;
+    
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration: none;
+    
+    color: #FFFFFF;
+}
+
 .app{
     position: absolute;
     width: 110px;
@@ -201,9 +217,9 @@ button{
     position: absolute;
     width: 290px;
     height: 90px;
-    left: 350px;
-    top: 760px;
-
+    left: 790px;
+    top: 780px;
+    
     background: #1B262C;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
@@ -217,22 +233,9 @@ button{
     color: #FFFFFF;
 }
 
-.pagina{
-    position: absolute;
-    width: 290px;
-    height: 90px;
-    left: 1215px;
-    top: 760px;
 
-    background: #1B262C;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 20px;
-    font-family: 'Anek Latin';
-
-    font-style: normal;
-    font-weight: 700;
-    font-size: 32px;
-    line-height: 35px;
-
-    color: #FFFFFF;
+.logo1{
+    position: relative;
+    left: 22rem;
+    top: 9rem;
 }

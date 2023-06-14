@@ -16,6 +16,22 @@ button{
     background: none;
 }
 
+.inicial{
+    position: absolute;
+    left: 1180px;
+    top: 30px;
+    
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration: none;
+    
+    color: #FFFFFF;
+}
+
 .app{
     position: absolute;
     width: 110px;

@@ -20,11 +20,27 @@ button{
     background: none;
 }
 
+.inicial{
+    position: absolute;
+    left: 1180px;
+    top: 30px;
+    
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration: none;
+    
+    color: #FFFFFF;
+}
+
 .app{
     position: absolute;
     width: 110px;
     height: 20px;
-    left: 1310px;
+    left: 1305px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -42,7 +58,7 @@ button{
     position: absolute;
     width: 80px;
     height: 20px;
-    left: 1423px;
+    left: 1415px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -60,7 +76,7 @@ button{
     position: absolute;
     width: 80px;
     height: 20px;
-    left: 1512px;
+    left: 1500px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -78,7 +94,7 @@ button{
     position: absolute;
     width: 70px;
     height: 20px;
-    left: 1600px;
+    left: 1585px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -96,7 +112,7 @@ button{
     position: absolute;
     width: 110px;
     height: 20px;
-    left: 1675px;
+    left: 1657px;
     top: 30px;
 
     font-family: 'Anek Latin';
@@ -114,7 +130,7 @@ button{
     position: absolute;
     width: 60px;
     height: 60px;
-    left: 1795px;
+    left: 1780px;
     top: 10px;
 }
 
@@ -212,8 +228,70 @@ button{
     position: absolute;
     width: 500px;
     height: 500px;
-    left: 1280px;
+    left: 1200px;
     top: 230px;
     
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.codigo{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 485px;
+    height: 80px;
+    left: 1095px;
+    top: 785px;
+    
+    background: #F1F1F1;
+    border: 3px solid #000000;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;    
+}
+
+.rastrear{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 232px;
+    height: 80px;
+    left: 1578px;
+    top: 785px;
+    
+    background: #1B262C;
+    border: 3px solid #000000;
+
+    
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 35px;
+    text-decoration: none;
+    
+    color: #FFFFFF;
+}
+
+.codigo-perdido{
+    position: absolute;
+    left: 1095px;
+    top: 875px;
+    
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
 }
