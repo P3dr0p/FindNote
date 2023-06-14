@@ -151,31 +151,11 @@ button{
     top: -8px;
 }
 
-.pagina{
-    position: absolute;
-    width: 290px;
-    height: 90px;
-    left: 809px;
-    top: 820px;
-
-    background: #1B262C;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 20px;
-
-    font-family: 'Anek Latin';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 32px;
-    line-height: 35px;
-
-    color: #FFFFFF;
-}
-
 .email img{
     position: absolute;
     width: 70px;
     height: 70px;
-    left: 606px;
+    left: 670px;
     top: 420px;
 
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -185,7 +165,7 @@ button{
     position: absolute;
     width: 118px;
     height: 30px;
-    left: 583px;
+    left: 640px;
     top: 500px;
 
     font-family: 'Anek Latin';
@@ -203,7 +183,7 @@ button{
     position: absolute;
     width: 343px;
     height: 40px;
-    left: 470px;
+    left: 540px;
     top: 540px;
 
     font-family: 'Anek Latin';
@@ -222,7 +202,7 @@ button{
     position: absolute;
     width: 70px;
     height: 70px;
-    left: 919px;
+    left: 1010px;
     top: 420px;
 
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -232,7 +212,7 @@ button{
     position: absolute;
     width: 83px;
     height: 30px;
-    left: 916px;
+    left: 1000px;
     top: 500px;
 
     font-family: 'Anek Latin';
@@ -250,7 +230,7 @@ button{
     position: absolute;
     width: 90px;
     height: 30px;
-    left: 913px;
+    left: 1000px;
     top: 548px;
 
     font-family: 'Anek Latin';
@@ -268,7 +248,7 @@ button{
     position: absolute;
     width: 70px;
     height: 70px;
-    left: 1205px;
+    left: 1305px;
     top: 420px;
 
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
@@ -278,7 +258,7 @@ button{
     position: absolute;
     width: 154px;
     height: 30px;
-    left: 1162px;
+    left: 1262px;
     top: 500px;
 
     font-family: 'Anek Latin';
@@ -296,7 +276,7 @@ button{
     position: absolute;
     width: 211px;
     height: 40px;
-    left: 1136px;
+    left: 1236px;
     top: 544px;
 
     font-family: 'Anek Latin';
