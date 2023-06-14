@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-
 .background{
     position: absolute;
     width: 100%;
@@ -152,61 +151,116 @@ button{
     top: -8px;
 }
 
-.termos-texto{
+.appRectangle{
     position: absolute;
-    text-align: justify;
-    width: 1800px;
-    height: 102px;
-    left: 50px;
-    top: 250px;
-        
-    font-family: 'Anek Latin';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 22px;
-    display: flex;
-    align-items: center;
+    width: 500px;
+    height: 500px;
+    left: 284px;
+    top: 312px;
 
-    color: #FFFFFF;
+    background: #121514;
+    border-radius: 20px;
 }
 
-.termos-texto2{
+.appIcon{
     position: absolute;
-    text-align: justify;
-    width: 1800px;
-    height: 102px;
-    left: 50px;
-    top: 580px;
-        
-    font-family: 'Anek Latin';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 22px;
-    display: flex;
-    align-items: center;
+    width: 320px;
+    height: 392px;
+    left: 374px;
+    top: 369px;
 
-    color: #FFFFFF;
+    background: url(.png);
 }
 
-.voltar{
+.texto{
     position: absolute;
-    width: 290px;
+    width: 669px;
+    height: 170px;
+    left: 865px;
+    top: 506px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 42px;
+    line-height: 46px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.textodaloja1{
+    position: absolute;
+    width: 280px;
     height: 90px;
-    left: 50px;
-    top: 815px;
-    
+    left: 899px;
+    top: 714px;
+
+    text-align: end;
+    padding-right: 3rem;
+
     background: #1B262C;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 20px;
+    border-radius: 10px;
 
     font-family: 'Anek Latin';
     font-style: normal;
-    font-weight: 700;
+    font-weight: 800;
     font-size: 32px;
     line-height: 35px;
     cursor: pointer;
-    
+
     color: #FFFFFF;
+}
+
+.textodaloja2{
+    position: absolute;
+    width: 280px;
+    height: 90px;
+    left: 1235px;
+    top: 714px;
+
+    text-align: end;
+    padding-right: 3rem;
+
+    background: #1B262C;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+
+    font-family: 'Anek Latin';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 35px;
+    cursor: pointer;
+
+    color: #FFFFFF;
+}
+
+.wifi{
+    position: absolute;
+    width: 197.7px;
+    height: 135.09px;
+    left: 1106px;
+    top: 371px;
+}
+
+.logo1{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 925px;
+    top: 735px;
+}
+
+.logo2{
+    position: absolute;
+    width: 50px;
+    height: 60px;
+    left: 1261px;
+    top: 729px;
 }

@@ -152,14 +152,7 @@ button{
     top: -8px;
 }
 
-.termos-texto{
-    position: absolute;
-    text-align: justify;
-    width: 1800px;
-    height: 102px;
-    left: 50px;
-    top: 250px;
-        
+p{
     font-family: 'Anek Latin';
     font-style: normal;
     font-weight: 700;
@@ -171,42 +164,69 @@ button{
     color: #FFFFFF;
 }
 
-.termos-texto2{
+.textoparte1{
     position: absolute;
-    text-align: justify;
-    width: 1800px;
+    width: 1617px;
     height: 102px;
-    left: 50px;
-    top: 580px;
-        
+    left: 130px;
+    top: 120px;
+}
+
+.textoparte2{
+    position: absolute;
+    width: 1120px;
+    height: 62px;
+    left: 130px;
+    top: 240px;
+}
+
+.textoparte3{
+    position: absolute;
+    width: 1576px;
+    height: 56px;
+    left: 130px;
+    top: 325px;
+}
+
+.textoparte4{
+    position: absolute;
+    width: 1568px;
+    height: 125px;
+    left: 130px;
+    top: 410px;
+}
+
+.textoparte5{
+    position: absolute;
+    width: 934px;
+    height: 44px;
+    left: 130px;
+    top: 560px;
+}
+
+.textoparte6{
+    position: absolute;
+    width: 1568px;
+    height: 132px;
+    left: 132px;
+    top: 600px;
+}
+
+.entreemcontato{
+    position: absolute;
+    width: 672px;
+    height: 22px;
+    left: 130px;
+    top: 725px;
+
     font-family: 'Anek Latin';
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
     line-height: 22px;
+
     display: flex;
     align-items: center;
 
-    color: #FFFFFF;
-}
-
-.voltar{
-    position: absolute;
-    width: 290px;
-    height: 90px;
-    left: 50px;
-    top: 815px;
-    
-    background: #1B262C;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 20px;
-
-    font-family: 'Anek Latin';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 32px;
-    line-height: 35px;
-    cursor: pointer;
-    
-    color: #FFFFFF;
+    color: #1D84DD;
 }
